@@ -1,0 +1,167 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 19 Mar 2022 16:08:15 at https://jyotilife.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://jyotilife.com -O1 "D:\test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:10:35	Warning: 	Moved Permanently for jyotilife.com/robots.txt
+16:10:35	Warning: 	Redirected link is identical because of 'URL Hack' option: jyotilife.com/robots.txt and https://jyotilife.com/robots.txt
+16:10:35	Warning: 	Warning moved treated for jyotilife.com/robots.txt (real one is https://jyotilife.com/robots.txt)
+16:10:35	Warning: 	Moved Permanently for jyotilife.com/wp-content/themes/jyotilife/
+16:10:35	Warning: 	Redirected link is identical because of 'URL Hack' option: jyotilife.com/wp-content/themes/jyotilife/ and https://jyotilife.com/wp-content/themes/jyotilife/
+16:10:35	Warning: 	File has moved from jyotilife.com/wp-content/themes/jyotilife/ to https://jyotilife.com/wp-content/themes/jyotilife/
+16:11:06	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 5482): www.google.com/images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png
+16:11:47	Warning: 	Moved Permanently for s.w.org/
+16:11:47	Warning: 	File has moved from s.w.org/ to https://wordpress.org/
+16:11:54	Warning: 	Found for https://jyotilife.com/feed/
+16:11:54	Warning: 	File has moved from https://jyotilife.com/feed/ to https://jyotilife.com/feed/?lang=np
+16:12:04	Warning: 	Found for https://jyotilife.com/comments/feed/
+16:12:04	Warning: 	File has moved from https://jyotilife.com/comments/feed/ to https://jyotilife.com/comments/feed/?lang=np
+16:12:28	Warning: 	Found for https://jyotilife.com/wp-json/
+16:12:28	Warning: 	File has moved from https://jyotilife.com/wp-json/ to https://jyotilife.com/wp-json/?lang=np
+16:12:28	Error: 	"Not Found" (404) at link https://jyotilife.com/xmlrpc.php?rsd (from https://jyotilife.com/)
+16:12:28	Warning: 	Moved Permanently for jyotilife.com/?wordfence_lh=1&hid=FE6C8400588B040F9A08425DD0EB6795
+16:12:28	Warning: 	Redirected link is identical because of 'URL Hack' option: jyotilife.com/?wordfence_lh=1&hid=FE6C8400588B040F9A08425DD0EB6795 and https://jyotilife.com/?wordfence_lh=1&hid=FE6C8400588B040F9A08425DD0EB6795
+16:12:28	Warning: 	File has moved from jyotilife.com/?wordfence_lh=1&hid=FE6C8400588B040F9A08425DD0EB6795 to https://jyotilife.com/?wordfence_lh=1&hid=FE6C8400588B040F9A08425DD0EB6795
+16:12:34	Warning: 	Found for https://jyotilife.com/?lang=en
+16:12:34	Warning: 	File has moved from https://jyotilife.com/?lang=en to https://jyotilife.com/
+16:12:34	Warning: 	Found for https://jyotilife.com/vacancy-jyotilife/
+16:12:34	Warning: 	File has moved from https://jyotilife.com/vacancy-jyotilife/ to https://jyotilife.com/vacancy-jyotilife/?lang=np
+16:12:34	Warning: 	Found for https://jyotilife.com/agm/
+16:12:34	Warning: 	File has moved from https://jyotilife.com/agm/ to https://jyotilife.com/agm/?lang=np
+16:13:47	Warning: 	Found for https://jyotilife.com/foreign-employment/
+16:13:47	Warning: 	File has moved from https://jyotilife.com/foreign-employment/ to https://jyotilife.com/foreign-employment/?lang=np
+16:13:47	Warning: 	Found for https://www.facebook.com/msg/jyotilifeinsurance/?show_interstitial=0&mdotme_uri=https%3A%2F%2Fm.me%2Fjyotilifeinsurance&handler=m.me&referer=http%3A%2F%2Fjyotilife.com%2F
+16:13:47	Warning: 	File has moved from https://www.facebook.com/msg/jyotilifeinsurance/?show_interstitial=0&mdotme_uri=https%3A%2F%2Fm.me%2Fjyotilifeinsurance&handler=m.me&referer=http%3A%2F%2Fjyotilife.com%2F to https://www.messenger.com/t/869916253157365/?messaging_source=source%3Apages%3Amessage_shortlink
+16:13:47	Warning: 	Found for https://jyotilife.com/training/
+16:13:47	Warning: 	File has moved from https://jyotilife.com/training/ to https://jyotilife.com/training/?lang=np
+16:13:47	Warning: 	Found for https://jyotilife.com/online-payment-partners/
+16:13:47	Warning: 	File has moved from https://jyotilife.com/online-payment-partners/ to https://jyotilife.com/online-payment-partners/?lang=np
+16:13:47	Warning: 	Found for https://jyotilife.com/company-profile/
+16:13:47	Warning: 	File has moved from https://jyotilife.com/company-profile/ to https://jyotilife.com/company-profile/?lang=np
+16:13:47	Warning: 	Found for https://jyotilife.com/vision-and-mission/
+16:13:47	Warning: 	File has moved from https://jyotilife.com/vision-and-mission/ to https://jyotilife.com/vision-and-mission/?lang=np
+16:13:47	Warning: 	Found for https://jyotilife.com/board-of-directors/
+16:13:47	Warning: 	File has moved from https://jyotilife.com/board-of-directors/ to https://jyotilife.com/board-of-directors/?lang=np
+16:13:47	Warning: 	Found for https://jyotilife.com/management-team/
+16:13:47	Warning: 	File has moved from https://jyotilife.com/management-team/ to https://jyotilife.com/management-team/?lang=np
+16:13:47	Warning: 	Found for https://jyotilife.com/information-officer-jyotilife/
+16:13:47	Warning: 	File has moved from https://jyotilife.com/information-officer-jyotilife/ to https://jyotilife.com/information-officer-jyotilife/?lang=np
+16:13:47	Warning: 	Found for https://jyotilife.com/jyoti-technology/
+16:13:47	Warning: 	File has moved from https://jyotilife.com/jyoti-technology/ to https://jyotilife.com/jyoti-technology/?lang=np
+16:13:47	Warning: 	Found for https://jyotilife.com/partners/
+16:13:47	Warning: 	File has moved from https://jyotilife.com/partners/ to https://jyotilife.com/partners/?lang=np
+16:13:47	Warning: 	Found for https://jyotilife.com/citizen-charter/
+16:13:47	Warning: 	File has moved from https://jyotilife.com/citizen-charter/ to https://jyotilife.com/citizen-charter/?lang=np
+16:13:47	Warning: 	Found for https://jyotilife.com/claim/
+16:13:47	Warning: 	File has moved from https://jyotilife.com/claim/ to https://jyotilife.com/claim/?lang=np
+16:13:47	Warning: 	Found for https://jyotilife.com/products/jyoti-surakchit-bachat-jeevan-beema-endownment-plan/
+16:13:47	Warning: 	File has moved from https://jyotilife.com/products/jyoti-surakchit-bachat-jeevan-beema-endownment-plan/ to https://jyotilife.com/products/jyoti-surakchit-bachat-jeevan-beema-endownment-plan/?lang=np
+16:13:48	Warning: 	Found for https://jyotilife.com/products/jyoti-life-endowment-cum-whole-life-plan/
+16:13:48	Warning: 	File has moved from https://jyotilife.com/products/jyoti-life-endowment-cum-whole-life-plan/ to https://jyotilife.com/products/jyoti-life-endowment-cum-whole-life-plan/?lang=np
+16:13:48	Warning: 	Found for https://jyotilife.com/products/jyoti-life-child-endowment-plan/
+16:13:48	Warning: 	File has moved from https://jyotilife.com/products/jyoti-life-child-endowment-plan/ to https://jyotilife.com/products/jyoti-life-child-endowment-plan/?lang=np
+16:13:48	Warning: 	Found for https://jyotilife.com/products/jyoti-single-payment-endowment-plan/
+16:13:48	Warning: 	File has moved from https://jyotilife.com/products/jyoti-single-payment-endowment-plan/ to https://jyotilife.com/products/jyoti-single-payment-endowment-plan/?lang=np
+16:13:48	Warning: 	Found for https://jyotilife.com/products/jyoti-limited-payment-endowment-plan/
+16:13:48	Warning: 	File has moved from https://jyotilife.com/products/jyoti-limited-payment-endowment-plan/ to https://jyotilife.com/products/jyoti-limited-payment-endowment-plan/?lang=np
+16:13:48	Warning: 	Found for https://jyotilife.com/products/jyoti-life-money-back-policy/
+16:13:48	Warning: 	File has moved from https://jyotilife.com/products/jyoti-life-money-back-policy/ to https://jyotilife.com/products/jyoti-life-money-back-policy/?lang=np
+16:13:48	Warning: 	Found for https://jyotilife.com/products/jyoti-3-20-dhan/
+16:13:48	Warning: 	File has moved from https://jyotilife.com/products/jyoti-3-20-dhan/ to https://jyotilife.com/products/jyoti-3-20-dhan/?lang=np
+16:13:48	Warning: 	Found for https://jyotilife.com/products/jyoti-ezee-pay-money-back-plan/
+16:13:48	Warning: 	File has moved from https://jyotilife.com/products/jyoti-ezee-pay-money-back-plan/ to https://jyotilife.com/products/jyoti-ezee-pay-money-back-plan/?lang=np
+16:13:48	Warning: 	Found for https://jyotilife.com/products/jyoti-life-term-policy/
+16:13:48	Warning: 	File has moved from https://jyotilife.com/products/jyoti-life-term-policy/ to https://jyotilife.com/products/jyoti-life-term-policy/?lang=np
+16:13:48	Warning: 	Found for https://jyotilife.com/products/group-product-jyotilife/
+16:13:48	Warning: 	File has moved from https://jyotilife.com/products/group-product-jyotilife/ to https://jyotilife.com/products/group-product-jyotilife/?lang=np
+16:13:59	Warning: 	Found for https://jyotilife.com/critical-illness/
+16:13:59	Warning: 	File has moved from https://jyotilife.com/critical-illness/ to https://jyotilife.com/critical-illness/?lang=np
+16:13:59	Warning: 	Found for https://jyotilife.com/financials/
+16:13:59	Warning: 	File has moved from https://jyotilife.com/financials/ to https://jyotilife.com/financials/?lang=np
+16:13:59	Warning: 	Found for https://jyotilife.com/financial-indicators/
+16:13:59	Warning: 	File has moved from https://jyotilife.com/financial-indicators/ to https://jyotilife.com/financial-indicators/?lang=np
+16:13:59	Warning: 	Found for https://jyotilife.com/report-type/annual-report/
+16:13:59	Warning: 	File has moved from https://jyotilife.com/report-type/annual-report/ to https://jyotilife.com/report-type/annual-report/?lang=np
+16:13:59	Warning: 	Found for https://jyotilife.com/report-type/quarterly-report/
+16:13:59	Warning: 	File has moved from https://jyotilife.com/report-type/quarterly-report/ to https://jyotilife.com/report-type/quarterly-report/?lang=np
+16:13:59	Warning: 	Found for https://jyotilife.com/proactive-disclosure/
+16:13:59	Warning: 	File has moved from https://jyotilife.com/proactive-disclosure/ to https://jyotilife.com/proactive-disclosure/?lang=np
+16:13:59	Warning: 	Found for https://jyotilife.com/bonus-rate/
+16:13:59	Warning: 	File has moved from https://jyotilife.com/bonus-rate/ to https://jyotilife.com/bonus-rate/?lang=np
+16:14:00	Warning: 	Found for https://jyotilife.com/jyoticares-card/
+16:14:00	Warning: 	File has moved from https://jyotilife.com/jyoticares-card/ to https://jyotilife.com/jyoticares-card/?lang=np
+16:14:00	Warning: 	Found for https://jyotilife.com/news-events/
+16:14:00	Warning: 	File has moved from https://jyotilife.com/news-events/ to https://jyotilife.com/news-events/?lang=np
+16:14:00	Warning: 	Found for https://jyotilife.com/public-notices/
+16:14:00	Warning: 	File has moved from https://jyotilife.com/public-notices/ to https://jyotilife.com/public-notices/?lang=np
+16:14:00	Warning: 	Found for https://jyotilife.com/download/
+16:14:00	Warning: 	File has moved from https://jyotilife.com/download/ to https://jyotilife.com/download/?lang=np
+16:14:00	Warning: 	Found for https://jyotilife.com/network-points/
+16:14:00	Warning: 	File has moved from https://jyotilife.com/network-points/ to https://jyotilife.com/network-points/?lang=np
+16:14:00	Warning: 	Found for https://jyotilife.com/jyoticares/
+16:14:00	Warning: 	File has moved from https://jyotilife.com/jyoticares/ to https://jyotilife.com/jyoticares/?lang=np
+16:14:00	Warning: 	Found for https://jyotilife.com/agency-details/
+16:14:00	Warning: 	File has moved from https://jyotilife.com/agency-details/ to https://jyotilife.com/agency-details/?lang=np
+16:14:00	Warning: 	Found for https://jyotilife.com/agent-faqs/
+16:14:00	Warning: 	File has moved from https://jyotilife.com/agent-faqs/ to https://jyotilife.com/agent-faqs/?lang=np
+16:14:00	Warning: 	Found for https://jyotilife.com/faqs/
+16:14:00	Warning: 	File has moved from https://jyotilife.com/faqs/ to https://jyotilife.com/faqs/?lang=np
+16:14:00	Warning: 	Found for https://jyotilife.com/critical-illness-faqs/
+16:14:00	Warning: 	File has moved from https://jyotilife.com/critical-illness-faqs/ to https://jyotilife.com/critical-illness-faqs/?lang=np
+16:14:13	Warning: 	Found for https://jyotilife.com/online-insurance/
+16:14:13	Warning: 	File has moved from https://jyotilife.com/online-insurance/ to https://jyotilife.com/online-insurance/?lang=np
+16:14:13	Warning: 	Link https://jyotilife.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+16:14:13	Warning: 	Found for https://jyotilife.com/premium-calculator/
+16:14:13	Warning: 	File has moved from https://jyotilife.com/premium-calculator/ to https://jyotilife.com/premium-calculator/?lang=np
+16:21:16	Warning: 	Note: due to https://www.imepay.com.np remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+16:21:47	Error: 	"Not Found" (404) at link https://www.prabhubank.com/ (from https://jyotilife.com/)
+16:21:47	Warning: 	Found for https://jyotilife.com/news-events/q1-report-7879/
+16:21:47	Warning: 	File has moved from https://jyotilife.com/news-events/q1-report-7879/ to https://jyotilife.com/news-events/q1-report-7879/?lang=np
+16:21:47	Warning: 	Found for https://jyotilife.com/news-events/jyoti-bot/
+16:21:47	Warning: 	File has moved from https://jyotilife.com/news-events/jyoti-bot/ to https://jyotilife.com/news-events/jyoti-bot/?lang=np
+16:21:47	Warning: 	Found for https://jyotilife.com/public-notices/notice/
+16:21:47	Warning: 	File has moved from https://jyotilife.com/public-notices/notice/ to https://jyotilife.com/public-notices/notice/?lang=np
+16:21:47	Warning: 	Found for https://jyotilife.com/public-notices/final-name-list-of-candidate-with-no-voting/
+16:21:47	Warning: 	File has moved from https://jyotilife.com/public-notices/final-name-list-of-candidate-with-no-voting/ to https://jyotilife.com/public-notices/final-name-list-of-candidate-with-no-voting/?lang=np
+16:28:53	Error: 	"Forbidden" (403) at link https://nepalre.com.np/en/ (from https://jyotilife.com/)
+16:29:01	Warning: 	Found for https://jyotilife.com/sitemap/
+16:29:01	Warning: 	File has moved from https://jyotilife.com/sitemap/ to https://jyotilife.com/sitemap/?lang=np
+16:29:01	Warning: 	Found for https://jyotilife.com/contact/
+16:29:01	Warning: 	File has moved from https://jyotilife.com/contact/ to https://jyotilife.com/contact/?lang=np
+16:29:01	Warning: 	Found for https://jyotilife.com/?page_id=46
+16:29:01	Warning: 	File has moved from https://jyotilife.com/?page_id=46 to https://jyotilife.com/?page_id=46&lang=np
+16:29:01	Warning: 	Found for https://jyotilife.com/privacy-policy/
+16:29:01	Warning: 	File has moved from https://jyotilife.com/privacy-policy/ to https://jyotilife.com/privacy-policy/?lang=np
+16:29:01	Warning: 	Found for https://jyotilife.com/feedback/
+16:29:01	Warning: 	File has moved from https://jyotilife.com/feedback/ to https://jyotilife.com/feedback/?lang=np
+16:30:06	Warning: 	Moved Permanently for softnep.com/robots.txt
+16:30:06	Warning: 	Redirected link is identical because of 'URL Hack' option: softnep.com/robots.txt and https://www.softnep.com/robots.txt
+16:30:06	Warning: 	Warning moved treated for softnep.com/robots.txt (real one is https://www.softnep.com/robots.txt)
+16:30:47	Warning: 	Moved Permanently for softnep.com/
+16:30:47	Warning: 	Redirected link is identical because of 'URL Hack' option: softnep.com/ and https://www.softnep.com/
+16:30:47	Warning: 	File has moved from softnep.com/ to https://www.softnep.com/
+16:35:16	Error: 	"Not Found" (404) at link https://jyotilife.com/wp-content/themes/jyotilife/layouts/css/owl.video.play.png (from https://jyotilife.com/wp-content/themes/jyotilife/layouts/css/owl-carousel.css)
+16:35:16	Error: 	"Not Found" (404) at link https://jyotilife.com/wp-content/themes/jyotilife/layouts/fonts/glyphicons-halflings-regular.eot?lang=np (from https://jyotilife.com/wp-content/themes/jyotilife/layouts/css/bootstrap.min.css)
+16:35:16	Error: 	"Not Found" (404) at link https://jyotilife.com/wp-content/themes/jyotilife/layouts/fonts/glyphicons-halflings-regular.woff2?lang=np (from https://jyotilife.com/wp-content/themes/jyotilife/layouts/css/bootstrap.min.css)
+16:35:16	Error: 	"Not Found" (404) at link https://jyotilife.com/wp-content/themes/jyotilife/layouts/fonts/glyphicons-halflings-regular.woff?lang=np (from https://jyotilife.com/wp-content/themes/jyotilife/layouts/css/bootstrap.min.css)
+16:35:16	Error: 	"Not Found" (404) at link https://jyotilife.com/wp-content/themes/jyotilife/layouts/fonts/glyphicons-halflings-regular.ttf?lang=np (from https://jyotilife.com/wp-content/themes/jyotilife/layouts/css/bootstrap.min.css)
+16:35:16	Error: 	"Not Found" (404) at link https://jyotilife.com/wp-content/themes/jyotilife/layouts/fonts/glyphicons-halflings-regular.svg (from https://jyotilife.com/wp-content/themes/jyotilife/layouts/css/bootstrap.min.css)
+16:35:18	Error: 	"Not Found" (404) at link https://jyotilife.com/wp-content/themes/jyotilife/layouts/css/layouts/images/cross.png (from https://jyotilife.com/wp-content/themes/jyotilife/layouts/css/style.css?v=6.2)
+16:35:18	Warning: 	Moved Permanently for jyotilife.com/?wordfence_lh=1&hid=FCF7CDD3C5B767B0BF22B9546F501992
+16:35:18	Warning: 	Redirected link is identical because of 'URL Hack' option: jyotilife.com/?wordfence_lh=1&hid=FCF7CDD3C5B767B0BF22B9546F501992 and https://jyotilife.com/?wordfence_lh=1&hid=FCF7CDD3C5B767B0BF22B9546F501992
+16:35:18	Warning: 	File has moved from jyotilife.com/?wordfence_lh=1&hid=FCF7CDD3C5B767B0BF22B9546F501992 to https://jyotilife.com/?wordfence_lh=1&hid=FCF7CDD3C5B767B0BF22B9546F501992
+16:44:16	Error: 	"Not Found" (404) at link https://jyotilife.com/?page_id=46&lang=np (from https://jyotilife.com/?lang=np)
+17:27:00	Warning: 	Moved Permanently for www.google.com/intl/ne/about/
+17:27:00	Warning: 	File has moved from www.google.com/intl/ne/about/ to https://about.google/intl/ne/
+17:27:00	Warning: 	Found for https://jyotilife.com/?wordfence_lh=1%26hid=FE6C8400588B040F9A08425DD0EB6795
+17:27:00	Warning: 	File has moved from https://jyotilife.com/?wordfence_lh=1%26hid=FE6C8400588B040F9A08425DD0EB6795 to https://jyotilife.com/?wordfence_lh=1%26hid=FE6C8400588B040F9A08425DD0EB6795&lang=np
+17:27:07	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://khalti.com/)
+17:29:27	Warning: 	Moved Permanently for https://khalti.com/domestic-service-api/
+17:29:27	Warning: 	File has moved from https://khalti.com/domestic-service-api/ to /utility-and-bill-payment-nepal/
+17:36:42	Warning: 	Found for https://www.facebook.com/msg/khalti.official/?show_interstitial=0&mdotme_uri=https%3A%2F%2Fm.me%2Fkhalti.official&handler=m.me&referer=http%3A%2F%2Fkhalti.com%2F
+17:36:42	Warning: 	File has moved from https://www.facebook.com/msg/khalti.official/?show_interstitial=0&mdotme_uri=https%3A%2F%2Fm.me%2Fkhalti.official&handler=m.me&referer=http%3A%2F%2Fkhalti.com%2F to https://www.messenger.com/t/241148049593542/?messaging_source=source%3Apages%3Amessage_shortlink
+17:40:24	Warning: 	Link https://payment.jyotilife.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+17:40:31	Error: 	"Not Found" (404) at link https://www.youtube.com/img/meh7.png (from https://www.youtube.com/embed/ZQWXlL27yMc?rel=0&modestbranding=1&autoplay=1)
